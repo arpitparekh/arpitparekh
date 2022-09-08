@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Parekh</h1>
-<h3 align="center">I'am a Moblie Application Developer, I Have Experties in Java, Kotlin and Flutter, I Worked With Material Design UI Components,MVC and MVVM Architecture.In my Applications I Used MySql(ROOM),Realm(MongoDB),Custom Server(PHP API),Firebase Database and Amazon S3,</h3>
+<h3 align="center">I'am a Moblie Application Developer, I Have Experties in Java, Kotlin and Flutter\nI Worked With Material Design UI Components\nMVC and MVVM Architecture.In my Applications I Used MySql(ROOM),Realm(MongoDB),Custom Server(PHP API),Firebase Database and Amazon S3,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitparekh&label=Profile%20views&color=0e75b6&style=flat" alt="arpitparekh" /> </p>
 
