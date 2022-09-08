@@ -16,6 +16,111 @@
 
 - 📫 How to reach me **arpitparekh9@gmail.com**
 
+<style>
+	.demo {
+		width:150%;
+	}
+</style>
+<table class="demo">
+	<caption>EveryThing That I Know In Mobile Development</caption>
+	<thead>
+	<tr>
+		<th>Java and Kotlin</th>
+		<th>Flutter</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>&nbsp; Different Types of Intents</td>
+		<td>&nbsp;Dart Programming</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Android Component's Lifecycle</td>
+		<td>&nbsp;Material Design Conceps</td>
+	</tr>
+	<tr>
+		<td>&nbsp; ViewBinding and dataBinding</td>
+		<td>&nbsp;All the Different Widgets&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Material Components and Layouts</td>
+		<td>&nbsp;State Management</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Different Types of Adapters</td>
+		<td>&nbsp;Pub.Dev&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Permissions</td>
+		<td>&nbsp;Api Call and Database Integrations&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Internal and External Storage</td>
+		<td>&nbsp;Different Package Integrations&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; MySql with Room</td>
+		<td>&nbsp;SqlFlite for MySql</td>
+	</tr>
+	<tr>
+		<td>&nbsp; MongoDB with Realm</td>
+		<td>&nbsp;Hive For MongoDB</td>
+	</tr>
+	<tr>
+		<td>&nbsp; OKHttp, Retrofit, Gson</td>
+		<td>&nbsp;Firebase Integrations</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Thread Executors and Coroutines&nbsp;</td>
+		<td>&nbsp;async and await</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Json and XML Parsing</td>
+		<td>&nbsp;Future and Stream</td>
+	</tr>
+	<tr>
+		<td>&nbsp; ActivityResult Launchers</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Animation and Services</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Broadcast Receivers</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Content Provider and Social Media Integrations</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Firebase Authentication, Firestore, Realtime, Storage</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Media Player and Pdf Generators</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Sensors, Bluetooth, Wifi and AdMob (Advertisement)</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; ButterKnife and Jetpack Compose</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; Notification and Payment Integration</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp; WakeLock and Google Map Integrations</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tbody>
+</table>
+
 ![](https://github-readme-stats.vercel.app/api?username=arpitparekh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arpitparekh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitparekh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
