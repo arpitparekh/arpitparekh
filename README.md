@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpit Parekh</h1>
-<h3 align="center">I'am a Moblie Application Developer, I Have Experties in Java, Kotlin and Flutter</h3>
-<h3 align="center">I Worked With Material Design UI Components</h3>
-<h3 align="center">MVC and MVVM Architecture</h3>
-<h3 align="center">In my Applications I Used MySql(ROOM),Realm(MongoDB),Custom Server(PHP API),Firebase Database and Amazon S3</h3>
+<h3>I'am a Moblie Application Developer, I Have Experties in Java, Kotlin and Flutter</h3>
+<h3">I Worked With Material Design UI Components</h3>
+<h3>MVC and MVVM Architecture</h3>
+<h3>In my Applications I Used MySql(ROOM),Realm(MongoDB),Custom Server(PHP API),Firebase Database and Amazon S3</h3>
 
 
 
