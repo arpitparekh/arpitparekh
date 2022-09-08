@@ -122,9 +122,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=arpitparekh&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arpitparekh&theme=light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitparekh&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/basicscience42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basicscience42" height="30" width="40" /></a>
