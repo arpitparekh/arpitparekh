@@ -4,7 +4,7 @@
 <h4>I'am a Moblie Application Developer, I Have Experties in Java, Kotlin and Flutter</h4>
 <h4>I Worked With Material Design UI Components</h4>
 <h4>MVC and MVVM Architecture</h4>
-<h4>In my Applications I Used MySql(ROOM),Realm(MongoDB),Custom Server(PHP API),Firebase Database and Amazon S3</h4>
+<h4>In my Applications I Used MySql(ROOM), Realm(MongoDB), Custom Server(PHP API), Firebase Database and Amazon S3</h4>
 
 - 🌱 I’m currently learning **Flutter Framework, Jetpack Compose, RxJava2, Dagger2**
 
