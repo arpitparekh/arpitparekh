@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Java, Kotlin and Flutter**
 
-- 📫 How to reach me **arpitparekh9@gmail.com**
-
 <h4></h4>
 
 <h3 align="left">Languages and Tools:</h3>
