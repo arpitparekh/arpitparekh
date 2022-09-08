@@ -7,7 +7,7 @@
 <h4>In my Applications I Used MySql(ROOM), Realm(MongoDB), Custom Server(PHP API), Firebase Database and Amazon S3</h4>
 <h4></h4>
 
-- 🌱 I’m currently learning **Flutter Framework, Jetpack Compose, RxJava2, Dagger2**
+- 🌱 I’m currently learning **Flutter Framework, Jetpack Compose, RxJava2, Dagger2, Hilt, Moshi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpitparekh](https://github.com/arpitparekh)
 
