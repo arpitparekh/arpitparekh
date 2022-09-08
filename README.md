@@ -16,13 +16,8 @@
 
 - 📫 How to reach me **arpitparekh9@gmail.com**
 
-<style>
-	.demo {
-		width:150%;
-	}
-</style>
-<table class="demo">
-	<caption>EveryThing That I Know In Mobile Development</caption>
+<h4 align="center">----------- EveryThing That is Know in Flutter ------------</h4>
+
 	<thead>
 	<tr>
 		<th>Java and Kotlin</th>
