@@ -18,7 +18,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/29730433/189082965-7749e5ec-ef85-4fdf-9ee6-e9938c8ff9c3.gif)
 
-<h3>----------- EveryThing That is Know in Mobile Development ------------</h3>
+<h3>               EveryThing That is Know in Mobile Development</h3>
 <h3></h3>
 	<table class="demo">
 	<thead>
