@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **arpitparekh9@gmail.com**
 
-<h4 align="center">----------- EveryThing That is Know in Flutter ------------</h4>
+<h4>----------- EveryThing That is Know in Flutter ------------</h4>
+<h4></h4>
 	<table class="demo">
 	<thead>
 	<tr>
