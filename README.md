@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitparekh&label=Profile%20views&color=0e75b6&style=flat" alt="arpitparekh" /> </p>
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently learning **Flutter Framework, Jetpack Compose, RxJava2, Dagger2, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpitparekh](https://github.com/arpitparekh)
 
