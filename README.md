@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **arpitparekh9@gmail.com**
 
-<h3>----------- EveryThing That is Know in Flutter ------------</h3>
+<h3>----------- EveryThing That is Know in Mobile Development ------------</h3>
 <h3></h3>
 	<table class="demo">
 	<thead>
