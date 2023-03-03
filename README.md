@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitparekh&label=Profile%20views&color=0e75b6&style=flat" alt="arpitparekh" /> </p>
 
-<h1 align="center">Hi 👋, I'm Arpit Parekh <p>&hearts; Ubuntu Linux<p></h1>
+<h1 align="center">Hi 👋, I'm Arpit Parekh <p>&hearts; Ubuntu Linux<p> <p>Follow me on github<p></h1>
 <h4>I'm a Moblie Application Developer, I Have Experties in Java, Kotlin and Flutter</h4>
 <h4>I Worked With Material Design UI Components</h4>
 <h4>MVC and MVVM Architecture</h4>
